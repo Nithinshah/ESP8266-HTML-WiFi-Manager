@@ -1,1 +1,1 @@
-# ESP8266-WEBconfiguration
+Simple HTML page to Configure your ESP8266
